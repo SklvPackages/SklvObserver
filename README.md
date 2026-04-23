@@ -12,7 +12,7 @@ A lightweight, `@MainActor`-safe toolkit for observation in Swift. Simple, predi
 
 ### Swift Package Manager
 
-- File > Swift Packages > Add Package Dependency
+- File > Add Package Dependencies...
 - Add `https://github.com/SklvPackages/SklvObserver.git`
 - Select "Up to Next Major" with "1.0.0"
 
